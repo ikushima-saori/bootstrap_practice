@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #ff00ff;
+}
+
+.logo {
+  background-color: #fbb3ff;
+  height: 70px;
+}
+
+.header-content {
+  background-color: #fbb3ff;
+  height: 70px;
+}
+
+.sidebar {
+  background-color: #d8ffb6;
+}
+
+.main-content {
+  background-color: #00b522;
+}
+
+.content {
+  background-color: #fff75a;
+  height: 130px;
+}
+
+.footer {
+  background-color: #52a1ff;
+}
+
+.footer-content {
+  background-color: #b6e7ff;
+  height: 40px;
+}
